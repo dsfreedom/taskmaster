@@ -1,6 +1,6 @@
 Overview:
 
-This repository contains the enhanced version of a React Todo App with API integration. The update includes the implementation of the toggle and rename functionalities for todos, extending the app's usability and user experience.
+This repository contains the enhanced version of a Tasmaster with API integration. The update includes the implementation of the toggle and rename functionalities for todos, extending the app's usability and user experience.
 
 
 
