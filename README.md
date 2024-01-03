@@ -21,10 +21,4 @@ Save changes on form submit or field blur.
 Cancel editing on Esc key press or delete todo if title is empty.
 Handle API responses for successful updates or deletions and display error messages for failures.
 
-### Available Scripts
-
-`Deploy` - available to deploy your application to gh-pages
-
-`SCSS Preprocessor` - available to write your styles with modern style language
-
 [DEMO LINK](https://dsfreedom.github.io/taskmaster/)
